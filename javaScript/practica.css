@@ -1,0 +1,9 @@
+.cuerpo{
+    background: linear-gradient(to top left, black ,white);
+    width: 100%;
+    height: 100vh;
+    
+}
+.cuerpo img {
+  transform: rotateZ(-30deg);
+}
